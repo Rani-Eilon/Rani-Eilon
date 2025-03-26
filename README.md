@@ -1,5 +1,3 @@
-# Welcome to My Portfolio
-
 Hi! I'm Rani, and here are some of the exciting projects I've worked on.
 
 ## Projects
