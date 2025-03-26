@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to My Portfolio
 
-<!--
-**Rani-Eilon/Rani-Eilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Rani, and here are some of the exciting projects I've worked on.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Shoe Pair Classifier
+**Description**:  
+This project is focused on building a machine learning model that classifies pairs of shoes based on images. The classifier detects if two shoes in an image form a matching pair.
+- **Technologies Used**: Python, Convolutional Neural Networks (CNN), OpenCV.
+- **Challenges Overcome**: Tackled challenges such as background noise and varying shoe angles.
+- [View Project on GitHub](https://github.com/Rani-Eilon/ShoePairClassifier)
+
+### AI-Driven Shape
+**Description**:  
+An AI-driven project that generates and analyzes different geometric shapes, optimizing for various parameters such as symmetry, size, and proportion.
+- **Technologies Used**: Python, AI/ML algorithms, Shape Optimization.
+- **Challenges Overcome**: Overcame issues with shape complexity and real-time processing.
+- [View Project on GitHub](https://github.com/Rani-Eilon/Vision-Based-Shape-Recognition)
+
+
