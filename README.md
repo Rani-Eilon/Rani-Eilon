@@ -11,5 +11,6 @@ https://github.com/Rani-Eilon/ShoePairClassifier
 
 ## AI-Driven Shape Analysis
 
-An AI-based tool that generates and analyzes geometric shapes. The project explores symmetry, spatial structure, and shape optimization using machine-learning techniques./n
+An AI-based tool that generates and analyzes geometric shapes. The project explores symmetry, spatial structure, and shape optimization using machine-learning techniques.
+
 https://github.com/Rani-Eilon/Vision-Based-Shape-Recognition
