@@ -7,6 +7,7 @@ This project implements a complete asynchronous FIFO using SystemVerilog. The de
 ## Shoe Pair Classifier
 
 A computer vision project that builds a neural network to determine whether two shoes in an image form a matching pair. The system uses CNN architectures together with OpenCV preprocessing to classify images and evaluate pairing accuracy.
+
 https://github.com/Rani-Eilon/ShoePairClassifier
 
 ## AI-Driven Shape Analysis
